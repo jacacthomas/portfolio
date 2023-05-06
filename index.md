@@ -24,6 +24,8 @@ Evaluated the impact of a 2009 leave reform on fertility in Taiwan. Used differe
 
 Evaluated how lockdowns affected mobility by levels of deprivation. Used interrupted time series and multilevel regression models. More deprived areas had higher workplace mobility and lower residential mobility across the pandemic, and differences were increased by each lockdown.
 
+<img src="images/combined_plots.png">
+
 ### Reinforcement learning agents for AI in educational games
 
 Supervised an MSc dissertation which sought to design a game for students to practice arithmetic, and build a reinforcement learning (RL) agent AI to play against the student. I helped develop the game UI in pygame, and design the RL agent specification.
