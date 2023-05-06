@@ -48,7 +48,7 @@ Supervised an MSc dissertation aiming to classify the function of roads (e.g. ar
 
 Supervised an MSc dissertation to map hotspots for mountain rescue, and evaluate expert opinion on the siting of gear lockers. My involvement primarily related to the initial study design phase.
 
-
+<img src="images/mountainrescur.jpg">
 
 ---
 
