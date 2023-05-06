@@ -30,13 +30,19 @@ Evaluated how lockdowns affected mobility by levels of deprivation. Used interru
 
 Supervised an MSc dissertation which sought to design a game for students to practice arithmetic, and build a reinforcement learning (RL) agent AI to play against the student. I helped develop the game UI in pygame, and design the RL agent specification.
 
+<img src="images/Reinforcement_learning_diagram.png">
+
 ### Detection of forest roads from aerial imagery
 
 Supervised an MSc dissertation to detect unmapped roads and tracks in forests, using aerial imagery. Used U-Net convolutional neural networks (CNNs) for semantic segmentation. I advised on study design and the use of an encoder-CNN hybrid architecture (TransUNet).
 
+<img src="images/arialcnn.jpg">
+
 ### Functional road classification using satellite imagery
 
 Supervised an MSc dissertation aiming to classify the function of roads (e.g. arterial, sub-arterial, local) using satellite images at different levels of zoom. Used U-Net CNNs for multiclass segmentation. My contribution primarily concerned model selection and data pre-processing.
+
+<img src="images/cnn.png">
 
 ### Mapping mountain rescue callout hotspots
 
