@@ -1,11 +1,11 @@
 title: Jac Thomas # your name (or website title) here
 logo: "/images/cropgreenheadshot.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data scientist with 5+ years of experience in social science, and formerly a lecturer in the Geographic Data Science Lab at the University of Liverpool. Published author in applied data science. Experienced in leading, supervising, and collaborating on academic data science projects.
   <br><br>
-  Second description 
+  PhDs in economics and human geography, a Graduate Diploma in statistics from the Royal Statistical Society, and a certificate in IT from the British Computer Society.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jac-thomas-5960a4a7/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
