@@ -51,8 +51,5 @@ Supervised an MSc dissertation to map hotspots for mountain rescue, and evaluate
 <img src="images/mountainrescur.jpg">
 
 ---
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
