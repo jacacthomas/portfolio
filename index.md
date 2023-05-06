@@ -6,7 +6,7 @@
 
 Predicted future births using husbands’ share of housework and other covariates. Used logistic regression models on longitudinal social survey data. First quantitative evidence that housework impacts fertility in Taiwan. Code [here](https://github.com/jacacthomas/houseworkFertilityTaiwan), published in Asian Population Studies [here](https://doi.org/10.1080/17441730.2022.2035555).
 
-<img src="images/paper1table.png"/>
+<img src="images/paper1table.png" class="img">
 
 ### Systematic review of effect of parental leave on fertility
 
