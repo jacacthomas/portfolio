@@ -1,33 +1,36 @@
-## Portfolio
+## Data Science Portfolio
 
 ---
 
-### Category Name 1 
+### Primary researcher
 
-[Project 1 Title](/sample_page)
+[Impact of housework sharing on fertility in Taiwan](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Systematic review of effect of parental leave on fertility](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Impact of parental leave on fertility in Taiwan](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Secondary Researcher
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Effect of Covid-19 lockdowns on mobility by deprivation in the UK](http://example.com/)
 
 ---
 
+### Supervisor
 
+- [Reinforcement learning agents for AI in educational games](http://example.com/)
+- [Detection of forest roads from aerial imagery](http://example.com/)
+- [Functional road classification using satellite imagery](http://example.com/)
+- [Mapping mountain rescue callout hotspots](http://example.com/)
+
+---
 
 
 ---
