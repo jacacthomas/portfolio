@@ -18,6 +18,8 @@ Reviewed and synthesised all published studies on the impact of leave on fertili
 
 Evaluated the impact of a 2009 leave reform on fertility in Taiwan. Used difference-in-differences multilevel logistic regression modelling on survey data. Found no evidence of impact robust to alternative model specifications. First study to evaluate causal impact of leave on fertility in Asia. Code [here](https://github.com/jacacthomas/p3_rfiles).
 
+<img src="images/paper3graph.png">
+
 ### Effect of Covid-19 lockdowns on mobility by deprivation in the UK
 
 Evaluated how lockdowns affected mobility by levels of deprivation. Used interrupted time series and multilevel regression models. More deprived areas had higher workplace mobility and lower residential mobility across the pandemic, and differences were increased by each lockdown.
